@@ -15,7 +15,7 @@ Once installed, verify that Node.js is working correctly by running:
 
 ## Run the Tests with Node.js
 
-The project contains a file resultTestCases.js that generates random test cases for the maxArea function. Once you've written or modified the function in testMaxArea.js, you can run the tests.
+The project contains a file resultTestCases.js that generates random test cases for the maxArea function. Once you've written or modified the function in testCases.js, you can run the tests.
 
 To execute the project and see the test results, use the following command in your terminal:
 
